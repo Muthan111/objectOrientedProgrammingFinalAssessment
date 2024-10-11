@@ -1,0 +1,31 @@
+Checkers Game Instructions
+Objective:
+The objective of Checkers (also known as Draughts) is to capture all of your opponent’spieces or block them
+so they cannot make any legal moves.
+
+Game Setup
+Board: A standard Checkers board is an 8x8 grid with alternating dark and light squares.
+The game is played only on the dark squares.
+Pieces: Each player starts with 12 pieces. 
+One player has dark pieces (usually black), and the other has light pieces
+(usually red or white).
+Initial Position: Place the pieces on the three rows closest to each player.
+The pieces should only be on the dark squares. Each player should have 12 pieces on the board atthe start.
+
+Basic Rules
+Turns: Players alternate turns, with the darker pieces moving first.
+Movement:
+Regular Pieces: Pieces move diagonally forward, one square at a time, to an empty square.
+Capturing: If an opponent's piece is adjacent to a player's piece and the square beyond it is empty, the
+player's piece can jump over the opponent's piece, landing on the empty square.
+The opponent's piece is then removed from the board. Multiple jumps are allowed in a single turn if the position allows it.
+
+Crowning (Kinging):
+When a piece reaches the farthest row from its starting position(the opponent’s back row), it is "kinged."
+A king is typically marked by stacking an additional piece on top of the first.
+Kings can move diagonally forward and backward, unlike regular pieces, which can only move forward.
+Winning the Game
+The game is won when one player captures all the opponent’s pieces or blocks them from making any move.
+
+Draws
+The game can end in a draw if neither player can force a win or both players agree that the game is a stalemate

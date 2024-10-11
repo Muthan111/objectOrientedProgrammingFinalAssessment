@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="820.0" prefWidth="800.0" styleClass="background" stylesheets="@CheckersTheme.css" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sourceFiles.controller.MainPageController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fafafa" height="739.0" layoutX="64.0" layoutY="32.0" opacity="0.45" stroke="#c5c6ad6b" strokeType="INSIDE" width="673.0" />
+      <Button fx:id="buttonToDisplayBoard" layoutX="300.0" layoutY="490.0" mnemonicParsing="false" prefHeight="44.0" prefWidth="140.0" text="Play" />
+      <Label fx:id="titleLabel" layoutX="235.0" layoutY="103.0" text="CheckerStorm" />
+      <Button fx:id="instructionsButton" layoutX="300.0" layoutY="548.0" mnemonicParsing="false" text="Instructions" />
+      <Button fx:id="exitbutton" layoutX="300.0" layoutY="605.0" mnemonicParsing="false" prefHeight="44.0" prefWidth="140.0" text="Exit" />
+   </children>
+</AnchorPane>
